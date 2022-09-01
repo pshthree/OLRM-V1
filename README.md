@@ -5,10 +5,8 @@ Organisation Level Reconnisance Methodology is an attack surface mapping framewo
 This methodology is divided into three phases:
 1. Organization:
 Collecting information regarding anything related to the Organization. This includes child companies, subdomains, or any labeled asset owned by the organization.
-
 2. Expanding Attack Surface:
 Analyze Collected Information and expand the scope.
-
 3. Single Host:
 Enumerating a single host
 

@@ -16,7 +16,7 @@ https://www.xmind.app/download/
 Use Framework online:
 https://www.xmind.app/m/SPZgAc/
 
-![alt text](https://github.com/pshthree/OLRM-V1/blob/main/OLRM.PNG?raw=true)
+![alt text](https://github.com/pshthree/OLRM-V1/blob/main/image.PNG?raw=true)
 
 Note:
 Please report any missing links or broken tools, We will make sure to update sheet timely

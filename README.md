@@ -14,7 +14,7 @@ Use Xmind to open the following file:
 https://www.xmind.app/download/
 
 Use Framework online:
-https://www.xmind.app/m/SPZgAc/
+https://www.xmind.net/m/CCMf6p
 
 ![alt text](https://github.com/pshthree/OLRM-V1/blob/main/image.PNG?raw=true)
 

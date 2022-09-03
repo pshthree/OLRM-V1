@@ -1,5 +1,5 @@
 # OLRM-V1
-Organisation Level Reconnisance Methodology is an attack surface mapping framework which helps you to demonstrate how much an APT group can enumurate your organisation. Reconnaissance is the information-gathering stage of ethical hacking, where you collect data about the target system. This data can include anything from network infrastructure to employee contact details. The goal of reconnaissance is to identify as many potential attack vectors as possible.
+Organisation Level Reconnisance Methodology is an attack surface mapping framework which helps you to demonstrate how much an APT group can enumurate your organisation. Reconnaissance is the information-gathering stage of hacking, where attacker collect data about the target system. This data can include anything from network infrastructure to employee contact details. The goal of reconnaissance is to identify as many potential attack vectors as possible.
 
 ## Phases:
 This methodology is divided into three phases:
